@@ -29,13 +29,19 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/NHvnVzzGOD.gif' width='250' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit](http://www.recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Learning if-statements
+
+Figuring out variable creation without let statements
+
+Changing the scope of function variables into class variables so they could be used by other functions
+
+Finding which action I wanted to use to make the most intuitive user experience
 
 ## License
 
